@@ -1,3 +1,8 @@
  i an a student 
+<<<<<<< HEAD
  
  my name is chenjin
+=======
+
+ create checkout is dev1
+>>>>>>> dev1
